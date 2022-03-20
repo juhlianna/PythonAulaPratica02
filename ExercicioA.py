@@ -9,7 +9,7 @@ n5 = int(input("Digite outro valor: "))
 s = n1 + n2 + n3 + n4 + n5
 print("A soma entre {} e {} e {} e {} e {} é igual a {}!".format(n1, n2, n3, n4, n5, s))
 
-# b) A média entre 23, 19 e 31
+
 
 
 
